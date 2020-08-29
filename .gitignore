@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Config File w/ Twitter API Key Data
+keys.py
